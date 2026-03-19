@@ -164,6 +164,7 @@ If you use this code in your research, please cite:
 ## License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+
 ---
 
 ## Acknowledgments
