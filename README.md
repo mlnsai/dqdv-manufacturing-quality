@@ -169,4 +169,4 @@ This project is licensed under the XXX License — see XXX for details.
 
 ## Acknowledgments
 
-This work was conducted as part of the [FreeTwinEV](https://freetwinev.eu/) project, funded by the European Union.
+This work was conducted as part of the [FreeTwinEV](https://freetwinev.stuba.sk/) project, funded by the European Union.
