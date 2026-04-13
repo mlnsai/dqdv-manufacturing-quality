@@ -150,12 +150,11 @@ The framework is chemistry-agnostic in its statistical methods, though peak assi
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{XXXX,
-  title   = {[Paper Title]},
-  author  = {[Authors]},
-  journal = {[Journal]},
-  year    = {[Year]},
-  doi     = {[DOI]}
+@misc{Mulpuri2026dqdv,
+  author       = {Mulpuri, Sai Krishna},
+  title        = {{dQ/dV-Based Manufacturing Quality Assessment of Li-ion Cells: A Four-Phase Analysis Pipeline with Anomaly Detection}},
+  year         = {2026},
+  howpublished = {\url{https://github.com/mlnsai/dqdv-manufacturing-quality}}
 }
 ```
 
